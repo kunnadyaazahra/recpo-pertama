@@ -1,3 +1,0 @@
-materi sim pertemuan kedua:
-- koneksi data dari sql ke r
-- pengenalan r-markdown
