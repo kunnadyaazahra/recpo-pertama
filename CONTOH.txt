@@ -2,7 +2,3 @@ materi sim pertemuan pertama:
 - kontrak kuliah
 - pendahuluan
 - review mk basis data
-
-materi sim pertemuan kedua:
-- koneksi data dari sql ke r
-- pengenalan r-markdown
